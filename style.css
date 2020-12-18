@@ -1,0 +1,23 @@
+tbody tr:hover{
+    background-color: green;
+    color: white;
+}
+
+.cat{
+    display: none;
+    margin: auto;
+}
+.monkey{
+    display: none;
+    margin: auto;
+}
+.clear{
+    width: 100px;
+    margin-left: 2vw;
+    cursor: pointer;
+    outline: none; 
+    display: none;
+}
+.clear:hover{
+    box-shadow: 3px 2px 8px  rgb(105, 180, 105);
+}
